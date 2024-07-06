@@ -56,7 +56,7 @@ const Footer = () => {
       </div>
       <div className="mt-10 justify-center text-center border-t border-neutral-700/80">
         <p className="mt-5">
-          ®️Chief-odili <br /> {currentDate}{" "}
+          ®️Chief-odili🙌 <br /> {currentDate}{" "}
         </p>
       </div>
     </footer>
